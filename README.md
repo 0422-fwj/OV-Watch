@@ -99,7 +99,7 @@ FriPi炸鸡派：https://github.com/No-Chicken/FryPi
 <br>
 
 
-## :star2:实物图
+## :star2:实物图12
 
 <p align="center">
 	<img border="1px" width="50%" src="./images/实物图.jpg">
